@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #d9d9d9;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #3b3b3b;
+}
+#back{
+  margin: 20px 0 0 50px;
+
+}
+#back, #sign {
+  color: #616161;
+}
+#arrow{
+  color: black;
+}
+#card{
+  margin: 130px 500px;
+  border: 1px;
+  background-color: #fbfbfb;
+  height: 290px;
+  width: 340px;
+  border-radius: 20px;
+}
+#center{
+  padding: 50px 50px;
+}
+#center h2{
+ text-align: center;
+ font-size: 26px;
+ 
+}
+#center p{
+  text-align: center;
+  margin-top: 10px;
+  font-size: 14px;
+}
+form{
+  margin: 35px 11px;
+}
+#email-input input{
+  padding: 5px;
+  border-radius: 3px;
+  border: 2px solid #999999;
+  width: 90%;
+}
+#btn{
+  margin-top: 15px;
+}
+#btn button{
+  padding: 5px 87px;
+}
+#btn button a{
+  text-decoration: none;
+  color: #3b3b3b;
+}
